@@ -1,0 +1,10 @@
+.moviesClass {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  width: 1200px;
+  height: 80vh;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px darkgray;
+  padding: 20px;
+}
